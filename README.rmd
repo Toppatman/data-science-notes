@@ -7,7 +7,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This is a projet by Matthew Guo analyzing data on different Spotify songs. It uses the dataset from
+This is a project by Matthew Guo analyzing data on different Spotify songs. It uses the dataset from:
+[kaggle](https://www.kaggle.com/datasets/iamsumat/spotify-top-2000s-mega-dataset)
+
 
 Include in your README:
 - A description (1-2 sentences) about your dataset
