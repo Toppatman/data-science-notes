@@ -1,0 +1,20 @@
+---
+title: "README"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is a projet by Matthew Guo analyzing data on different Spotify songs. It uses the dataset from
+
+Include in your README:
+- A description (1-2 sentences) about your dataset
+-Your name
+
+```{r}
+
+
+
+```
